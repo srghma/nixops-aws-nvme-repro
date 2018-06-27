@@ -1,0 +1,5 @@
+*.nixops-shm
+*.nixops-wal
+
+runner/id_rsa
+secrets/*
